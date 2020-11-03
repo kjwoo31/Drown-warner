@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ATS-49SMD.dra                                 )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Wed Oct 09 16:18:13 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kjwoo_/Desktop/library
+    Name      = ats-49smd.psm
+    User      = kjwoo_
+    Machine   = LAPTOP-BF7V5FNJ
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

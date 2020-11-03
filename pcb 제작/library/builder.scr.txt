@@ -1,0 +1,36 @@
+skill load "C:/Users/kjwoo_/Desktop/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/kjwoo_/Desktop/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/kjwoo_/Desktop/AllegroV17_2/32M1-A-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 32M1-A-L.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/kjwoo_/Desktop/AllegroV17_2/32M1-A-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 32M1-A-M.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Users/kjwoo_/Desktop/AllegroV17_2/32M1-A.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 32M1-A.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

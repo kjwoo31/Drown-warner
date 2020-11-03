@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : HAENYEO1.brd                                  )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Sat Jan 11 01:46:00 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/Users/kjwoo_/Desktop/project/ARTWORK_haenyeo1' ...
+
+
+
+     'HAENYEO1-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.3302    0.0000/  0.0000      PLATED         12
+            2.   0.8128    0.0000/  0.0000      PLATED          9
+            3.   0.9144    0.0000/  0.0000      PLATED          4
+            4.   2.2860    0.0000/  0.0000      PLATED          3
+
+     ---- Total holes:                                         28
+
+     ---- Total head travel:              0.97 feet (0.29 meters)
+

@@ -1,0 +1,22 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : PROJECT1.brd                                  )
+(    Software Version : 17.2S008                                      )
+(    Date/Time        : Mon Oct 07 17:01:38 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: <a href="xprobe:xy:82.1672 60.6755">(82.1672 60.6755)</a>  Net: GND_POWER
+	Point on shape: <a href="xprobe:xy:81.5771 61.2736">(81.5771 61.2736)</a>  Net: GND_POWER
+</PRE>
+</BODY></HTML>

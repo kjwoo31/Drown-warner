@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : PROJECT1.brd                                  )
+(    Software Version : 17.2S008                                      )
+(    Date/Time        : Mon Oct 07 17:01:38 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (82.1672 60.6755)  Net: GND_POWER
+	Point on shape: (81.5771 61.2736)  Net: GND_POWER

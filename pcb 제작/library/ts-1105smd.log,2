@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TS-1105SMD.dra                                )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Mon Sep 09 22:59:51 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kjwoo_/Desktop/library
+    Name      = ts-1105smd.psm
+    User      = kjwoo_
+    Machine   = LAPTOP-BF7V5FNJ
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

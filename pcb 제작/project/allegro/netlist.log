@@ -1,0 +1,20 @@
+{ Using PSTWRITER 17.2.0 d001Dec-25-2019 at 14:17:09 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.15" ignored for IC1: SCHEMATIC1, PAGE1 (78.74, 27.94). Connecting pin to net "MOSI".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.16" ignored for IC1: SCHEMATIC1, PAGE1 (78.74, 27.94). Connecting pin to net "MISO".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.17" ignored for IC1: SCHEMATIC1, PAGE1 (78.74, 27.94). Connecting pin to net "SCK".
+#4 WARNING(ORCAP-36006): Part Name "CONN SOCKET 2_HEADER2_2P5MM_BATTERY" is renamed to "CONN SOCKET 2_HEADER2_2P5MM_BAT".
+#5 WARNING(ORCAP-36006): Part Name "CONN SOCKET 3_HEADER3_2P54MM_BOOTLOADER" is renamed to "CONN SOCKET 3_HEADER3_2P54MM_BO".
+#6 WARNING(ORCAP-36006): Part Name "CONN SOCKET 4_HEADER4_2P54MM_UART" is renamed to "CONN SOCKET 4_HEADER4_2P54MM_UA".
+#7 WARNING(ORCAP-36006): Part Name "CONN SOCKET 2_HEADER2_2P5MM_CHARGE" is renamed to "CONN SOCKET 2_HEADER2_2P5MM_CHA".
+#8 WARNING(ORCAP-36006): Part Name "PN-VM102_HEADER2_2P54MM_PN-VM102" is renamed to "PN-VM102_HEADER2_2P54MM_PN-VM10".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\KJWOO_\DESKTOP\PROJECT\allegro/pstchip.dat
+
+Loading... C:\USERS\KJWOO_\DESKTOP\PROJECT\allegro/pstchip.dat
+
+Loading... C:\USERS\KJWOO_\DESKTOP\PROJECT\allegro/pstxprt.dat
+
+Loading... C:\USERS\KJWOO_\DESKTOP\PROJECT\allegro/pstxnet.dat
+packaging the design view...

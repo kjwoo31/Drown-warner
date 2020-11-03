@@ -1,0 +1,370 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Dec-25-2019 at 14:17:15 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='HAENYEO1';
+ POST_TIME='Aug  8 2016 18:41:50';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_SMC0805_20P':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS16853@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins16853@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins16853@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_SMC0805_20P':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS16877@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins16877@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins16877@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_SMC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS47050@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins47050@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins47050@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_SMC0805_100NF':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS3779@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins3779@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins3779@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_SMC0805_1UF':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS3795@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins3795@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins3795@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_SMC0805_1UF':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS3811@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins3811@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins3811@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR POL_SMC0805_4,7UF_16U':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS3836@DISCRETE.CAPACITOR POL.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins3836@discrete.\capacitor pol.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins3836@discrete.\capacitor pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_SMC0805_1UF':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS23342@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins23342@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins23342@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_SMC0805_1UF':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS23309@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins23309@discrete.\cap np.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins23309@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SOD-123_MMSD4148':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS46968@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins46968@discrete.\diode.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins46968@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_0603LED_LED':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS18919@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins18919@discrete.\led.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins18919@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_SOD-123_MMSD4148':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS12990@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins12990@discrete.\diode.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins12990@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE_DO-214AC_SS5819':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS24179@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins24179@discrete.\diode.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins24179@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_0603LED_LED':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS33400@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins33400@discrete.\led.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins33400@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 '328P-MUR_32M1-A_328P-MUR':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS1162@LIBRARY_JW.328P-MUR.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins1162@library_jw.\328p-mur.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins1162@library_jw.\328p-mur.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN SOCKET 2_HEADER2_2P5MM_BAT':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS30075@CONNECTOR.CONN SOCKET 2.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins30075@connector.\conn socket 2.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins30075@connector.\conn socket 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN SOCKET 3_HEADER3_2P54MM_BO':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS44279@CONNECTOR.CONN SOCKET 3.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins44279@connector.\conn socket 3.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins44279@connector.\conn socket 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CONN SOCKET 4_HEADER4_2P54MM_UA':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS34357@CONNECTOR.CONN SOCKET 4.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins34357@connector.\conn socket 4.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins34357@connector.\conn socket 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CONN SOCKET 2_HEADER2_2P5MM_CHA':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS34457@CONNECTOR.CONN SOCKET 2.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins34457@connector.\conn socket 2.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins34457@connector.\conn socket 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'PN-VM102_HEADER2_2P54MM_PN-VM10':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS13343@LIBRARY_JW.PN-VM102.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins13343@library_jw.\pn-vm102.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins13343@library_jw.\pn-vm102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '1R1001_SOT-23_BCX19LT1G':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS12555@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins12555@transistor.\1r1001.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins12555@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMC0805_2.2K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS12174@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins12174@discrete.\r.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins12174@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMC0805_2.2K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS12190@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins12190@discrete.\r.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins12190@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_SMC0805_1K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS46952@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins46952@discrete.\resistor.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins46952@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_SMC0805_0.25K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS18894@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins18894@discrete.\resistor.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins18894@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_SMC0805_1K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS16767@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins16767@discrete.\resistor.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins16767@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SMC0805_0.475K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS12812@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins12812@discrete.\r.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins12812@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_SMC0805_1K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS16783@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins16783@discrete.\resistor.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins16783@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_SMC0805_1K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS24416@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins24416@discrete.\resistor.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins24416@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_SMC0805_0.25K':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS33416@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins33416@discrete.\resistor.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins33416@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_TC_SPST_TS-1105SMD_RESET SW':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS47012@DISCRETE.SW_TC_SPST.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins47012@discrete.\sw_tc_spst.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins47012@discrete.\sw_tc_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW_T_SPDT_MST103_MST 103':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS48036@DISCRETE.SW_T_SPDT.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins48036@discrete.\sw_t_spdt.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins48036@discrete.\sw_t_spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MS5803-14BA_MS5803_MS5803-14BA':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS12059@LIBRARY_JW.MS5803-14BA.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins12059@library_jw.\ms5803-14ba.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins12059@library_jw.\ms5803-14ba.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MCP1700_SOT-23_MCP1700':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS22721@LIBRARY_JW.MCP1700.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins22721@library_jw.\mcp1700.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins22721@library_jw.\mcp1700.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TP4056_SOP8_TP4056':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS24104@LIBRARY_JW.TP4056.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins24104@library_jw.\tp4056.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins24104@library_jw.\tp4056.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_HC49SM40_8MHZ':;
+
+SECTION_NUMBER 1
+ '@HAENYEO1.SCHEMATIC1(SCH_1):INS16808@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@haenyeo1.schematic1(sch_1):ins16808@discrete.\crystal.normal\(chips)',
+ P_PATH='@haenyeo1.schematic1(sch_1):page1_ins16808@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

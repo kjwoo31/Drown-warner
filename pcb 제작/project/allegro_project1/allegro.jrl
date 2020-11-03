@@ -1,0 +1,18 @@
+\t (00:00:00) allegro 17.2 S008 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Nov 21 14:43:32 2019
+\t (00:00:00)         Host=LAPTOP-BF7V5FNJ User=kjwoo_ Pid=22616 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\kjwoo_\Desktop\project\allegro\PROJECT1.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: C:/Users/kjwoo_/Desktop/project/allegro/PROJECT1.brd
+\t (00:00:09) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:09) trapsize 7745
+\i (00:00:09) trapsize 7939
+\t (00:00:09) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:09) trapsize 7939
+\t (00:00:09) Grids are drawn 12.8000, 12.8000 apart for enhanced viewability.
+\i (00:00:09) trapsize 116585
+\i (00:00:09) generaledit 
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Thu Nov 21 14:43:44 2019

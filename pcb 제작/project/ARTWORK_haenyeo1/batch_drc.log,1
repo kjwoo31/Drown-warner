@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRC Update                                                       )
+(                                                                     )
+(    Drawing          : HAENYEO1.brd                                  )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Tue Dec 24 15:54:17 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ========= check shapes                       0:00:00
+ ========= check standalone pins              0:00:00
+ ========= check symbols (pins,lines,text)    0:00:00
+ ========= check xnets                        0:00:00
+ ========= check nets                         0:00:00
+ ========= check standalone branches          0:00:00
+ ========= check standalone filled rectangles 0:00:00
+ ========= check standalone lines             0:00:00
+ ========= check standalone text              0:00:00
+ ========= check standalone rectangles        0:00:00
+
+ ..... Total number of DRC errors  2
+
+
+WARNING: 2 dynamic shape(s) out of date; checking skipped on these elements.
+
+ ..... DRC update completed, total CPU time   0:00:00
+ *************************************************************************
+

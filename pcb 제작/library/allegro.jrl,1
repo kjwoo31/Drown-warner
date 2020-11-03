@@ -1,0 +1,15 @@
+\t (00:00:04) allegro 17.2 S008 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Dec 24 16:22:33 2019
+\t (00:00:04)         Host=LAPTOP-BF7V5FNJ User=kjwoo_ Pid=3120 CPUs=4
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\kjwoo_\Desktop\library\HEADER2_2p5mm.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/kjwoo_/Desktop/library/HEADER2_2p5mm.dra
+\i (00:00:05) trapsize 117
+\i (00:00:05) trapsize 120
+\i (00:00:05) trapsize 120
+\i (00:00:06) trapsize 1434
+\i (00:00:06) generaledit 
+\i (00:00:39) exit 
+\t (00:00:40)     Journal end - Tue Dec 24 16:23:09 2019

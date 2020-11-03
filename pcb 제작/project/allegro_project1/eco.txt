@@ -1,0 +1,246 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/KJWOO_/DESKTOP/PROJECT/allegro/PROJECT1.brd                        |
+|                                                    Thu Sep 26 17:43:56 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3.3V         pins ADDED TO this new net
+                                 C6.1           C7.1           J2.4           
+                                 U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V           pins ADDED TO this new net
+                                 C1.1           C3.1           C5.1           
+                                 C10.1          D1.1           J2.2           
+                                 J2.5           R1.1           U1.3           
+                                 U2.1           U3.7           U3.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD0          pins ADDED TO this new net
+                                 J4.1           U3.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD1          pins ADDED TO this new net
+                                 J4.2           U3.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD2          pins ADDED TO this new net
+                                 J4.3           U3.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD3          pins ADDED TO this new net
+                                 J4.4           U3.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD4          pins ADDED TO this new net
+                                 J3.2           J4.5           U3.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AD5          pins ADDED TO this new net
+                                 J3.1           J4.6           U3.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AREF         pins ADDED TO this new net
+                                 C11.1          J3.3           U3.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_POWER    pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           C5.2           C6.2           
+                                 C7.2           C8.1           C9.1           
+                                 C10.2          C11.2          J1.3           
+                                 J2.6           J2.7           J3.4           
+                                 SW1.3          SW1.4          U1.2           
+                                 U2.2           U3.8           U3.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO0          pins ADDED TO this new net
+                                 J5.1           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO1          pins ADDED TO this new net
+                                 J5.2           U3.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/KJWOO_/DESKTOP/PROJECT/allegro/PROJECT1.brd                        |
+|                                                    Thu Sep 26 17:43:56 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  IO2          pins ADDED TO this new net
+                                 J5.3           U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO3          pins ADDED TO this new net
+                                 J5.4           U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO4          pins ADDED TO this new net
+                                 J5.5           U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO5          pins ADDED TO this new net
+                                 J5.6           U3.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO6          pins ADDED TO this new net
+                                 J5.7           U3.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO7          pins ADDED TO this new net
+                                 J5.8           U3.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO8          pins ADDED TO this new net
+                                 J3.10          U3.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO9          pins ADDED TO this new net
+                                 J3.9           U3.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO10         pins ADDED TO this new net
+                                 J3.8           U3.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO11         pins ADDED TO this new net
+                                 J3.7           U3.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO12         pins ADDED TO this new net
+                                 J3.6           U3.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IO13         pins ADDED TO this new net
+                                 J3.5           U3.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02893       pins ADDED TO this new net
+                                 C8.2           R2.1           U3.10          
+                                 Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02902       pins ADDED TO this new net
+                                 C9.2           R2.2           U3.9           
+                                 Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NRESET       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/KJWOO_/DESKTOP/PROJECT/allegro/PROJECT1.brd                        |
+|                                                    Thu Sep 26 17:43:56 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C4.1           D1.2           J2.3           
+                                 R1.2           SW1.1          SW1.2          
+                                 U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins ADDED TO this new net
+                                 C2.1           J1.1           J2.8           
+                                 U1.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/KJWOO_/DESKTOP/PROJECT/allegro/PROJECT1.brd                        |
+|                                                    Thu Sep 26 17:43:56 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ATMEGA328P_PDIP28_ATMEGA328P
+ CAP NP_SMC0805_0.1U
+ CAP NP_SMC0805_20P
+ CAP POL_SMC1206_10U
+ CAP POL_SMC2917_100U
+ CONN JACK PWR_BARREL_TYPE_E_CON
+ CONN SOCKET 6_HEADER6_2P54MM_CO
+ CONN SOCKET 8_HEADER8_2P54MM_CO
+ CONN SOCKET 10_HEADER10_2P54MM_
+ CRYSTAL_ATS-49SMD_16MHZ
+ DIODE_SOD-123_MMSD4148
+ FR7805_TO252AA_FR7805
+ LF33_TO252AA_LF33
+ RESISTOR_SMC0805_1M
+ RESISTOR_SMC0805_10K
+ SW_TC_SPST_TS-1105SMD_RESET SW
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/KJWOO_/DESKTOP/PROJECT/allegro/PROJECT1.brd                        |
+|                                                    Thu Sep 26 17:43:56 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_SMC0805_0.1U   
+ C2                  CAP POL_SMC1206_10U   
+ C3                  CAP POL_SMC2917_100U  
+ C4                  CAP NP_SMC0805_0.1U   
+ C5                  CAP POL_SMC1206_10U   
+ C6                  CAP POL_SMC2917_100U  
+ C7                  CAP NP_SMC0805_0.1U   
+ C8                  CAP NP_SMC0805_20P    
+ C9                  CAP NP_SMC0805_20P    
+ C10                 CAP NP_SMC0805_0.1U   
+ C11                 CAP NP_SMC0805_0.1U   
+ D1                  DIODE_SOD-123_MMSD4148 
+ J1                  CONN JACK PWR_BARREL_TYPE_E_CON 
+ J2                  CONN SOCKET 8_HEADER8_2P54MM_CO 
+ J3                  CONN SOCKET 10_HEADER10_2P54MM_ 
+ J4                  CONN SOCKET 6_HEADER6_2P54MM_CO 
+ J5                  CONN SOCKET 8_HEADER8_2P54MM_CO 
+ R1                  RESISTOR_SMC0805_10K  
+ R2                  RESISTOR_SMC0805_1M   
+ SW1                 SW_TC_SPST_TS-1105SMD_RESET SW 
+ U1                  FR7805_TO252AA_FR7805 
+ U2                  LF33_TO252AA_LF33     
+ U3                  ATMEGA328P_PDIP28_ATMEGA328P 
+ Y1                  CRYSTAL_ATS-49SMD_16MHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/KJWOO_/DESKTOP/PROJECT/allegro/PROJECT1.brd                        |
+|                                                    Thu Sep 26 17:43:56 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ J1.3                           PRIM_FILE      .\pstchip.dat
+ J2.8                           PRIM_FILE      .\pstchip.dat
+ J3.9                           PRIM_FILE      .\pstchip.dat
+ J4.6                           PRIM_FILE      .\pstchip.dat
+ J5.8                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ SW1.4                          PRIM_FILE      .\pstchip.dat
+ U1.3                           PRIM_FILE      .\pstchip.dat
+ U2.3                           PRIM_FILE      .\pstchip.dat
+ U3.10                          PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/KJWOO_/DESKTOP/PROJECT/allegro/PROJECT1.brd                        |
+|                                                    Thu Sep 26 17:43:56 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     101                                        |
+|       Comp definitions added:      16                                        |
+|       Components added      :      24                                        |
+|       Slot property added   :      24                                        |
+|                                                                              |
+|   Total ECO changes reported:     165                                        |
+|------------------------------------------------------------------------------|

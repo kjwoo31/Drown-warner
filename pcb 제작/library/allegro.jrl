@@ -1,0 +1,16 @@
+\t (00:00:04) allegro 17.2 S008 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Dec 24 16:29:11 2019
+\t (00:00:04)         Host=LAPTOP-BF7V5FNJ User=kjwoo_ Pid=8060 CPUs=4
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\kjwoo_\Desktop\library\HEADER10_2p54mm.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/kjwoo_/Desktop/library/HEADER10_2p54mm.dra
+\i (00:00:07) trapsize 243
+\i (00:00:07) trapsize 249
+\i (00:00:07) trapsize 295
+\t (00:00:08) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:00:08) trapsize 3513
+\i (00:00:08) generaledit 
+\i (00:00:11) exit 
+\t (00:00:11)     Journal end - Tue Dec 24 16:29:19 2019

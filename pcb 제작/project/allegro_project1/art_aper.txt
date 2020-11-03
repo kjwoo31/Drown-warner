@@ -1,0 +1,56 @@
+
+INPUT-UNITS     MM
+
+WHEEL     1
+
+LINE          0.1016            D52
+LINE           0.127            D58
+LINE          0.1524            D51
+LINE             0.2            D59
+LINE          0.2032            D53
+LINE            0.25            D56
+LINE           0.254            D54
+LINE           0.635            D55
+LINE            0.75            D57
+CIRCLE        0.6096            D10
+CIRCLE         0.762            D12
+CIRCLE        1.1176            D13
+CIRCLE         1.143            D20
+CIRCLE          1.27            D17
+CIRCLE         1.524            D19
+CIRCLE         1.778            D22
+CIRCLE        1.8542            D21
+CIRCLE        1.9812            D18
+CIRCLE         4.572            D30
+CIRCLE         4.826            D32
+CIRCLE          5.08            D31
+SQUARE          1.27   0.00000            D14
+SQUARE         1.524   0.00000            D16
+SQUARE         1.778   0.00000            D23
+SQUARE        1.9812   0.00000            D15
+RECTANGLE     0.9144    1.2192   0.00000  D46
+RECTANGLE      1.016     1.524   0.00000  D43
+RECTANGLE     1.0414    1.3462   0.00000  D47
+RECTANGLE     1.1684    1.4732   0.00000  D45
+RECTANGLE     1.2192    0.9144   0.00000  D33
+RECTANGLE     1.3462    1.0414   0.00000  D35
+RECTANGLE     1.4732    1.1684   0.00000  D34
+RECTANGLE      1.524     1.016   0.00000  D28
+RECTANGLE      1.524     2.032   0.00000  D44
+RECTANGLE      1.778     5.842   0.00000  D39
+RECTANGLE      2.032     1.524   0.00000  D29
+RECTANGLE      2.286     6.604   0.00000  D40
+RECTANGLE       2.54     4.064   0.00000  D36
+RECTANGLE      2.667     4.191   0.00000  D38
+RECTANGLE      2.794     4.318   0.00000  D37
+RECTANGLE      4.064      2.54   0.00000  D49
+RECTANGLE      4.191     2.667   0.00000  D50
+RECTANGLE      4.318     2.794   0.00000  D48
+RECTANGLE      5.842     1.778   0.00000  D26
+RECTANGLE      5.969     6.096   0.00000  D41
+RECTANGLE      6.096     5.969   0.00000  D24
+RECTANGLE      6.477     6.604   0.00000  D42
+RECTANGLE      6.604     2.286   0.00000  D27
+RECTANGLE      6.604     6.477   0.00000  D25
+FLASH     AB00                 0.00000  D11
+

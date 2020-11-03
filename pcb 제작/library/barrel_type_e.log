@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BARREL_TYPE_E.dra                             )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Mon Sep 09 21:41:48 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/kjwoo_/Desktop/library
+    Name      = barrel_type_e.psm
+    User      = kjwoo_
+    Machine   = LAPTOP-BF7V5FNJ
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

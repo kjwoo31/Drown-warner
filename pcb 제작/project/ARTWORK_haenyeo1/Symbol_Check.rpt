@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : HAENYEO1.brd                                  )
+(    Software Version : 17.2S008                                      )
+(    Date/Time        : Fri Nov 22 16:48:30 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	c:/cadence/spb_17.2/share/local/pcb/symbols
+	c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols
+	c:/cadence/spb_17.2/share/pcb/allegrolib/symbols
+	C:/Users/kjwoo_/Desktop/library/
+
+
+All Symbols Found
+
+Total symbols placed:      36 out of 36
+
+

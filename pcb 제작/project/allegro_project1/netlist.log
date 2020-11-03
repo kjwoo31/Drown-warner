@@ -1,0 +1,19 @@
+{ Using PSTWRITER 17.2.0 d001Nov-21-2019 at 15:04:52 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.15" ignored for IC1: SCHEMATIC1, PAGE1 (91.44, 30.48). Connecting pin to net "MOSI".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.16" ignored for IC1: SCHEMATIC1, PAGE1 (91.44, 30.48). Connecting pin to net "MISO".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.17" ignored for IC1: SCHEMATIC1, PAGE1 (91.44, 30.48). Connecting pin to net "SCK".
+#4 WARNING(ORCAP-36006): Part Name "CONN SOCKET 2_HEADER2_2P5MM_BATTERY" is renamed to "CONN SOCKET 2_HEADER2_2P5MM_BAT".
+#5 WARNING(ORCAP-36006): Part Name "CONN SOCKET 3_HEADER3_2P54MM_BOOTLOADER" is renamed to "CONN SOCKET 3_HEADER3_2P54MM_BO".
+#6 WARNING(ORCAP-36006): Part Name "CONN SOCKET 4_HEADER4_2P54MM_UART" is renamed to "CONN SOCKET 4_HEADER4_2P54MM_UA".
+#7 WARNING(ORCAP-36006): Part Name "CONN SOCKET 2_HEADER2_2P5MM_CHARGE" is renamed to "CONN SOCKET 2_HEADER2_2P5MM_CHA".
+#8 WARNING(ORCAP-36006): Part Name "PN-VM102_HEADER2_2P54MM_PN-VM102" is renamed to "PN-VM102_HEADER2_2P54MM_PN-VM10".
+#9 WARNING(ORCAP-36006): Part Name "SW PUSHWHEEL SPDT_MST103_MST 103" is renamed to "SW PUSHWHEEL SPDT_MST103_MST 10".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\KJWOO_\DESKTOP\PROJECT\allegro/pstchip.dat
+#72 ERROR(SPCODD-72): A mismatch in the number of sections occurred on line 189 while parsing logical pins.
+        To avoid such errors, use Part Developer instead of manually editing the library part definition
+              ERROR(SPCODD-47): Packaging can not complete because the file ./allegro/pstchip.dat could not be loaded. There might be syntax errors in this file. Ensure that the syntax is correct before proceeding.
+ #53 ERROR(SPCODD-53): Packaging cannot be completed because packaging has encountered a null object ID. The design may not have been saved correctly. Save the design before packaging.
+#10 ERROR(ORCAP-36026): Unable to read logical netlist data.
