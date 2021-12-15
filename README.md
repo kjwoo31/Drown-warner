@@ -1,5 +1,5 @@
 # Drown-warner
-> 2019-2 POSTECH CITE303 창의설계 II Project, Research Participation  
+> 2019-2 POSTECH CITE202 창의설계 II Project, Research Participation  
 
 [DEMO](https://youtu.be/8rtlJri3aME)  
 
